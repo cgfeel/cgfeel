@@ -1,3 +1,3 @@
 最近熟悉业务文档中。
 
-<img width="63" alt="image" src="https://github.com/user-attachments/assets/8f380947-5ef5-4a40-b7e9-e7bb2d3b4973" />
+<img width="95" alt="image" src="https://github.com/user-attachments/assets/a7940ae6-a5c8-483c-8a4b-7ebc508277c8" />
