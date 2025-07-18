@@ -1,3 +1,3 @@
 最近熟悉业务中.
 
-<img width="208" height="132" alt="image" src="https://github.com/user-attachments/assets/902868a2-5769-4b55-ad0f-79f2973ea0e0" />
+<img width="106" height="107" alt="image" src="https://github.com/user-attachments/assets/128297b0-b82d-463a-bc95-463b01ef96f9" />
