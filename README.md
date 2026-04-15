@@ -1,3 +1,3 @@
 找工作中，欢迎各位老板、领导联系： cgfeel@gmail.com
 
-<img width="47" height="77" alt="image" src="https://github.com/user-attachments/assets/994a447f-77c2-4f1e-9684-9da19ff9023c" />
+<img width="51" height="85" alt="image" src="https://github.com/user-attachments/assets/328a2d93-5250-48cf-b2fe-284fbe0792f1" />
