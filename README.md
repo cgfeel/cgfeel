@@ -34,4 +34,4 @@ https://github.com/cgfeel/laravel-rotate-captcha
 
 找工作中，欢迎各位老板、领导联系： cgfeel@gmail.com
 
-<img width="215" height="182" alt="image" src="https://github.com/user-attachments/assets/20db714d-fea0-4568-90da-14656e3d9ec3" />
+<img width="67" height="51" alt="图片" src="https://github.com/user-attachments/assets/237f41e1-8698-412a-9ad0-eb63147c8967" />
