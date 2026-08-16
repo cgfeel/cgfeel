@@ -6,7 +6,7 @@
 
 https://github.com/cgfeel/chanding
 
-- 谗鼎：Fork 仓库在线编辑 JSON 即可部署 MOCK 到 cloudflare
+- 谗鼎：Fork 仓库在线编辑 JSON 即可自动部署 MOCK 到 cloudflare
 
 https://github.com/cgfeel/pbvm
 
