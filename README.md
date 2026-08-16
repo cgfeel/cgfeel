@@ -4,6 +4,10 @@
 
 ## 开源项目
 
+https://github.com/cgfeel/chanding
+
+- 谗鼎：Fork 仓库在线编辑 JSON 即可部署 MOCK 到 cloudflare
+
 https://github.com/cgfeel/pbvm
 
 - `pbvm-cli`：跨平台浏览器版本管理，像 `nvm` 那样管理多个版本的浏览器
