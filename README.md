@@ -36,4 +36,5 @@ https://github.com/cgfeel/laravel-rotate-captcha
 
 ---
 
-<img width="49" height="101" alt="image" src="https://github.com/user-attachments/assets/f20e00aa-e795-4881-9d2a-3099a4fde560" />
+<img width="57" height="60" alt="image" src="https://github.com/user-attachments/assets/ea395b98-c798-4242-b378-e93a21258f16" />
+
