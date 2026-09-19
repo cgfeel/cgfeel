@@ -1,4 +1,4 @@
-[![GitHub Roast](https://ghfind.com/api/card/cgfeel?theme=dark)](https://ghfind.com/u/cgfeel?ref=badge)
+[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/cgfeel?lang=zh)](https://ghfind.com/u/cgfeel?ref=badge)
 
 ---
 
